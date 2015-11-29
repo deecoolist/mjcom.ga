@@ -23,6 +23,8 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.2.0",
     "paper-elements": "PolymerElements/paper-elements#~1.0.6",
-    "iron-elements": "PolymerElements/iron-elements#~1.0.4"
+    "iron-elements": "PolymerElements/iron-elements#~1.0.4",
+    "jquery": "~2.1.4",
+    "backbone": "~1.2.3"
   }
 }
