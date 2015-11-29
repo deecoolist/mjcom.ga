@@ -25,6 +25,12 @@
     "paper-elements": "PolymerElements/paper-elements#~1.0.6",
     "iron-elements": "PolymerElements/iron-elements#~1.0.4",
     "jquery": "~2.1.4",
-    "backbone": "~1.2.3"
+    "backbone": "~1.2.3",
+    "neon-elements": "PolymerElements/neon-elements#~1.0.0",
+    "google-map": "GoogleWebComponents/google-map#~1.1.7",
+    "google-sheets": "GoogleWebComponents/google-sheets#~1.0.5",
+    "google-signin": "GoogleWebComponents/google-signin#~1.2.0",
+    "google-chart": "GoogleWebComponents/google-chart#~1.0.4",
+    "google-analytics": "GoogleWebComponents/google-analytics#~1.2.1"
   }
 }
